@@ -15,3 +15,8 @@ exports a geoparquet
 
 # example_shortfall.csv
 and an example of the csv used to get the shortfall values in ha
+
+
+# To Run
+- change paths in stand, targets and output
+- run all 3 cells
